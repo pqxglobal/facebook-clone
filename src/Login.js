@@ -29,7 +29,7 @@ function Login() {
           alt=""
         />
         <img
-          src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2lliUF0pqNFyL0BM5bQ7bL3hbEiwKtox8kw&usqp=CAU"
+          src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Facebook_Logo_%282019%29.svg/375px-Facebook_Logo_%282019%29.svg.png" width='180px'
           alt=""
         />
       </div>
